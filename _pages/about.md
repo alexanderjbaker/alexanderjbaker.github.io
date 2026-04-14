@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,32 +13,32 @@ I use observational data and high-resolution global climate models to study trop
 
 I read geology at the [University of Durham](https://www.dur.ac.uk) and then undertook postgraduate research in environmental science, palaeoclimatology, and atmospheric science. [My PhD](https://alexbakey.wordpress.com/2017/01/16/atmospheric-circulation-rainfall-isotopes-and-past-climate-change-in-east-asia/) combined a study of atmospheric moisture transport to East Asia with analysis of stable water isotope data to interpret reconstructions of past monsoon variability. At Durham, I also contributed to fieldwork and data analysis in an international project to reconstruct North Atlantic hurricane activity over the last four centuries. I became a Fellow of the [Geological Society of London](http://www.geolsoc.org.uk) in 2011 and an Associate Fellow of the [Royal Meteorological Society](https://www.rmets.org) in 2017.
 
-<Away from science, I'm probably in a park with my dog. I love [tennis](https://lta.tournamentsoftware.com/sport/player.aspx?id=3BBDEAB7-BC81-4EC8-80F6-72C1423002B4&amp;player=2327), football (Leicester City fan), basketball (San Antonio Spurs fan), and cycling. "If I can bicycle, I bicycle." I'm a fair-weather runner and, with varying degrees of success, I've tried martial arts, cricket, squash, swimming, and climbing. I'll read almost anything, and I'm learning the guitar (slowly) and harmonica (even slower).
+Away from science, I'm probably in a park with my dog. I love [tennis](https://lta.tournamentsoftware.com/sport/player.aspx?id=3BBDEAB7-BC81-4EC8-80F6-72C1423002B4&amp;player=2327), football (Leicester City fan), basketball (San Antonio Spurs fan), and cycling. "If I can bicycle, I bicycle." I'm a fair-weather runner and, with varying degrees of success, I've tried martial arts, cricket, squash, swimming, and climbing. I'll read almost anything, and I'm learning the guitar (slowly) and harmonica (even slower).
 
 
 Career
 ------
-2025–
-[Senior Research Scientist](https://research.reading.ac.uk/meteorology/people/alex-baker/)
-National Centre for Atmospheric Science and Department of Meteorology, University of Reading
+**2025–**  
+[Senior Research Scientist](https://research.reading.ac.uk/meteorology/people/alex-baker/)  
+National Centre for Atmospheric Science and Department of Meteorology, University of Reading  
 
-2012 & 2014
-Visiting Researcher
-Institute for Atmospheric and Climate Science, Swiss Federal Institute of Technology
+**2012 & 2014**  
+Visiting Researcher  
+Institute for Atmospheric and Climate Science, Swiss Federal Institute of Technology  
 (Institut für Atmosphäre und Klima, Eidgenössische Technische Hochschule Zürich)
 
-2011–2015
-Ph.D.
-Sir Kingsley Dunham Studentship
-Department of Earth Sciences, University of Durham
+**2011–2015**  
+Ph.D.  
+Sir Kingsley Dunham Studentship  
+Department of Earth Sciences, University of Durham  
 
 
 Research interests
 ------
-Tropical, post-tropical and midlatitude cyclones
-Cyclone air-sea interactions
-North Atlantic climate variability and extremes
-Atmospheric circulation and jet streams
-Climate risk assessment
-Stable water isotopes and palaeoclimate
-Science communication
+- Tropical, post-tropical and midlatitude cyclones  
+- Cyclone air-sea interactions  
+- North Atlantic climate variability and extremes  
+- Atmospheric circulation and jet streams  
+- Climate risk assessment  
+- Stable water isotopes and palaeoclimate  
+- Science communication  
