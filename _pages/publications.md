@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 > All peer-reviewed, published papers listed here are open-access or publicly available at [ResearchGate](https://www.researchgate.net/profile/Alexander-Baker-4). Citation metrics and selected conference abstracts may be found at [Google Scholar](https://scholar.google.co.uk/citations?user=xohcmYcAAAAJ&hl=en).
-
-
+  
+  
 Preprints under review
 ----------------------
 
 Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5161). Under review, *Natural Hazards and Earth System Sciences*.
 
 Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. Opportunities for increasing resilience to changing severe weather: “Early Action and Enhanced Adaptive Capacity for All.” Under review, *Bulletin of the American Meteorological Society*.
-
-
+  
+  
 Published
 ---------
 
@@ -70,18 +70,18 @@ Roberts, M. J., **Baker, A. J.**, Blockley, E. W., Calvert, D., Coward, A., Hewi
 **Baker, A. J.** [Report on the 22nd British Cave Research Association Cave Science Symposium](http://bcra.org.uk/pub/speleology/index.html?j=18). *Speleology* **18**, 28–30 (2011). [Invited]
 
 Whitaker, T., Jones, D., Baldini, J. U. L., and **Baker, A. J.** [A high-resolution spatial survey of cave air carbon dioxide concentrations in Scoska Cave (North Yorkshire, UK): implications for calcite deposition and re-dissolution](https://www.researchgate.net/publication/45346481_A_high-resolution_spatial_survey_of_cave_air_carbon_dioxide_concentrations_in_Scoska_Cave_North_Yorkshire_UK_Implications_for_calcite_deposition_and_re-dissolution). *Cave and Karst Science* **36**, 85–92 (2009).
-
-
+  
+  
 Ph.D. thesis & essays
 ---------------------
 
-**Baker, A. J.** [Lagrangian modelling of precipitation and speleothem proxy oxygen isotope systematics in the East Asian Summer Monsoon region]([)](http://etheses.dur.ac.uk/11460/). Ph.D. thesis, Department of Earth Sciences, University of Durham (2015).
+**Baker, A. J.** [Lagrangian modelling of precipitation and speleothem proxy oxygen isotope systematics in the East Asian Summer Monsoon region](http://etheses.dur.ac.uk/11460/). Ph.D. thesis, Department of Earth Sciences, University of Durham (2015).
 
 **Baker, A. J.** [Understanding stalagmite growth rate and palaeoclimate records](https://alexbakey.wordpress.com/wp-content/uploads/2017/10/speleology-article-draft-formatted.pdf). *Speleology* (2011). [Invited]
 
 **Baker, A. J.** [Analysis of geological structures and hydrological drainage characteristics at Washpool Crags Quarry (Weardale, UK) based on a digital outcrop model and regional climate data. One North East Studentship fieldwork and research report](https://www.researchgate.net/publication/281107413_Analysis_of_geological_structures_and_hydrological_drainage_characteristics_at_Washpool_Crags_Quarry_Weardale_UK_based_on_a_digital_outcrop_model_and_regional_climate_data). Department of Earth Sciences, University of Durham (2011).
-
-
+  
+  
 Manuscripts in preparation
 ------
 
