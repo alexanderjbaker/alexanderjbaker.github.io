@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Alexander J. Baker"
 title_separator          : "-"
 name                     : &name "Alexander J. Baker"
@@ -29,7 +29,7 @@ author:
   bio              : "Senior Research Scientist, National Centre for Atmospheric Science and Department of Meteorology, University of Reading"
   location         : "Reading, UK"
   employer         : "University of Reading"
-  uri              : "alexbakey.wordpress.com" # URL
+  uri              : # URL
   email            : "alexander.baker@reading.ac.uk" 
 
   # Academic websites
