@@ -7,6 +7,8 @@ redirect_from:
   - /publications.html
 ---
 
+> All peer-reviewed, published papers listed here are open-access or publicly available at [ResearchGate]({{site.author.researchgate}}). Citation metrics and selected conference abstracts may be found at [Google Scholar]({{site.author.googlescholar}}).
+
 
 Preprints under review
 ----------------------
