@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-> All peer-reviewed, published papers listed here are open-access or publicly available at [ResearchGate](https://www.researchgate.net/profile/Alexander-Baker-4). Citation metrics and selected conference abstracts may be found at [Google Scholar](https://scholar.google.co.uk/citations?user=xohcmYcAAAAJ&hl=en).
+> All peer-reviewed papers listed here are either open-access publications or publicly available at [ResearchGate](https://www.researchgate.net/profile/Alexander-Baker-4). Citation metrics and selected conference abstracts may be found at [Google Scholar](https://scholar.google.co.uk/citations?user=xohcmYcAAAAJ&hl=en).
   
   
 Preprints under review
