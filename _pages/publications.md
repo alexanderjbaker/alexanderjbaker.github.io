@@ -11,15 +11,16 @@ redirect_from:
 Preprints under review
 ----------------------
   
-Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5161). Under review, *Natural Hazards and Earth System Sciences*.  
+Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5161). Under review, *Natural Hazards and Earth System Sciences*.
+
 Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. Opportunities for increasing resilience to changing severe weather: “Early Action and Enhanced Adaptive Capacity for All.” Under review, *Bulletin of the American Meteorological Society*.  
   
   
 Published
 ---------
   
-**Baker, A. J.**, Lockwood, J. F., Athanasiadis, P. J., and Vidale, P. L. [Reduced future North Atlantic eddy-driven jet variability in high-resolution, fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0418.1/JCLI-D-25-0418.1.xml). In press, *Journal of Climate* ,  (2026).  
-  
+**Baker, A. J.**, Lockwood, J. F., Athanasiadis, P. J., and Vidale, P. L. [Reduced future North Atlantic eddy-driven jet variability in high-resolution, fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0418.1/JCLI-D-25-0418.1.xml). In press, *Journal of Climate* ,  (2026).
+
 **Baker, A. J.** [Tropical cyclones and climate change](https://magazines.hachettelearning.com/magazine/geography-review/39/1/). *Geography Review* **39**, 2–5 (2025). [Invited outreach article]
 
 Wang, Z., Rios-Berrios, R., Stern, D. P., **Baker, A. J.**, Beucler, T., Camargo, S. J., Duvel, J.-P., Feng, X., Lee, C.-Y., Leroux, M.-D., Li, H., Macholl, J., Molina, M. J., Núñez Ocasio, K. M., Ramsay, H. A., Ritchie, E. A., Schenkel, B. A., Stansfield, A. M., Ayar, P. V., and Wisinski, E. [On the Definition and Tracking of Tropical Cyclone Seeds from a Climate Perspective](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0200.1/BAMS-D-24-0200.1.xml). *Bulletin of the American Meteorological Society* **106**, E1815–E1822 (2025).
@@ -30,9 +31,9 @@ Lockwood, J. F., Athanasiadis, P., **Baker, A. J.**, Guentchev, G., Priestley, M
 
 **Baker, A. J.**, Vannière, B., and Vidale, P. L. [On the realism of tropical cyclones simulated in global storm-resolving climate models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109841). *Geophysical Research Letters* **51**, e2024GL109841 (2024).
 
-Huang, H., Collins, W. D., Patricola, C. M., Ruprich-Robert, Y., Ullrich, P. A., and Baker, A. J. Contrasting Responses of Atlantic and Pacific Tropical Cyclone Activity to Atlantic Multidecadal Variability. Geophysical Research Letters 50, e2023GL102959 (2023).
+Huang, H., Collins, W. D., Patricola, C. M., Ruprich-Robert, Y., Ullrich, P. A., and **Baker, A. J.** [Contrasting Responses of Atlantic and Pacific Tropical Cyclone Activity to Atlantic Multidecadal Variability](https://doi.org/10.1029/2023GL102959). *Geophysical Research Letters* **50**, e2023GL102959 (2023).
 
-Athanasiadis, P., Ogawa, F., Omani, N.-E., Keenlyside, N., Schiemann, R. K. H., Baker, A. J., Vidale, P. L., Bellucci, A., Ruggieri, P., Haarsma, R. J., Roberts, M. J., Roberts, C. D., Novak, L., and Gualdi, S. Mitigating climate biases in mid-latitude North Atlantic via increasing model resolution: SST gradients and their relation to blocking and the jet. Journal of Climate 35, 3385–3406 (2022).
+Athanasiadis, P., Ogawa, F., Omani, N.-E., Keenlyside, N., Schiemann, R. K. H., **Baker, A. J.**, Vidale, P. L., Bellucci, A., Ruggieri, P., Haarsma, R. J., Roberts, M. J., Roberts, C. D., Novak, L., and Gualdi, S. [Mitigating climate biases in mid-latitude North Atlantic via increasing model resolution: SST gradients and their relation to blocking and the jet](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0515.1/JCLI-D-21-0515.1.xml). *Journal of Climate* **35**, 3385–3406 (2022).
 
 Baker, A. J. Tropical cyclones: Global decline in frequency. Nature Climate Change 12, 615–617 (2022).
 
