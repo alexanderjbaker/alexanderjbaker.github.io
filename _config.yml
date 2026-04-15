@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dafualt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Alexander J. Baker"
 title_separator          : "-"
 name                     : &name "Alexander J. Baker"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-2697-1350"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : #URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Alexander-Baker-4" # URL
   scopus           : # URL
   zotero           : # URL
