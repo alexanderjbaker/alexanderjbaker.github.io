@@ -1,9 +1,9 @@
 ---
-permalink: /publications/
+permalink: /bibliography/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /publications_academicpages_style/
+  - /publications/
   - /publications.html
 ---
 
