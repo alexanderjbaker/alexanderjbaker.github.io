@@ -20,12 +20,14 @@ Career
 ------
 **2025–**  
 [Senior Research Scientist](https://research.reading.ac.uk/meteorology/people/alex-baker/)  
+2016–2024  
+Research Scientist  
 National Centre for Atmospheric Science and Department of Meteorology, University of Reading  
 
 **2012 & 2014**  
 Visiting Researcher  
-Institute for Atmospheric and Climate Science, Swiss Federal Institute of Technology  
-(Institut für Atmosphäre und Klima, Eidgenössische Technische Hochschule Zürich)
+Institute for Atmospheric and Climate Science, Swiss Federal Institute of Technology (ETH Zürich)  
+(Institut für Atmosphäre und Klima, Eidgenössische Technische Hochschule Zürich)  
 
 **2011–2015**  
 Ph.D.  
