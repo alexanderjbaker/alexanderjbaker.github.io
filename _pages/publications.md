@@ -7,11 +7,11 @@ redirect_from:
   - /publications.html
 ---
 
-> All peer-reviewed papers listed here are either open-access publications or publicly available at [ResearchGate](https://www.researchgate.net/profile/Alexander-Baker-4). Citation metrics and selected conference abstracts may be found at [Google Scholar](https://scholar.google.co.uk/citations?user=xohcmYcAAAAJ&hl=en).
+> All peer-reviewed papers listed here are open-access publications or publicly available at [ResearchGate](https://www.researchgate.net/profile/Alexander-Baker-4). Citation metrics and selected conference abstracts may be found at [Google Scholar](https://scholar.google.co.uk/citations?user=xohcmYcAAAAJ&hl=en).
   
   
 Preprints under review
-----------------------
+------
 
 Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5161). Under review, *Natural Hazards and Earth System Sciences*.
 
@@ -19,7 +19,7 @@ Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, 
   
   
 Published
----------
+------
 
 **Baker, A. J.**, Lockwood, J. F., Athanasiadis, P. J., and Vidale, P. L. [Reduced future North Atlantic eddy-driven jet variability in high-resolution, fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0418.1/JCLI-D-25-0418.1.xml). In press, *Journal of Climate* ,  (2026).
 
@@ -73,7 +73,7 @@ Whitaker, T., Jones, D., Baldini, J. U. L., and **Baker, A. J.** [A high-resolut
   
   
 Ph.D. thesis & essays
----------------------
+------
 
 **Baker, A. J.** [Lagrangian modelling of precipitation and speleothem proxy oxygen isotope systematics in the East Asian Summer Monsoon region](http://etheses.dur.ac.uk/11460/). Ph.D. thesis, Department of Earth Sciences, University of Durham (2015).
 
