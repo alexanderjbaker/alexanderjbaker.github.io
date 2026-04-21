@@ -34,6 +34,8 @@ Ph.D.
 Sir Kingsley Dunham Studentship  
 Department of Earth Sciences, University of Durham  
 
+**[CV](/files/Academic__CV_AJBaker_latest.pdf)**  
+
 
 Research interests
 ------
