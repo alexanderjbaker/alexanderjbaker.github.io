@@ -14,8 +14,8 @@ Scientists call this [‘rapid intensification’](https://theconversation.com/t
 Better forecasting will depend on more detailed monitoring of a hurricane’s inner core—especially close to the eyewall (see Figure), where the strongest winds occur—and on higher-resolution computer models that can [better capture a storm’s complex structure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109841). New machine learning (AI) techniques [may help](https://journals.ametsoc.org/view/journals/wefo/40/10/WAF-D-24-0228.1.xml) but are largely untested.
 
 ![Inside the eye of Hurricane Melissa.](/images/hurricane_melissa.jpg)
-**Figure** | Inside the eye of Hurricane Melissa. Photo taken by U.S. Air Force ‘Hurricane Hunters’. Photograph by Lt. Col. Mark Withee/USAF/UPI/Alamy.
-
+***Figure*** | *Inside the eye of Hurricane Melissa. Photo taken by U.S. Air Force ‘Hurricane Hunters’. Photograph by Lt. Col. Mark Withee/USAF/UPI/Alamy.*
+  
 As things stand, rapidly intensifying storms mean that communities are often provided little warning to evacuate, and government agencies may have little time to make preparations, such as opening evacuation shelters or preparing critical infrastructure.
 
 That’s what happened with [Hurricane Otis](https://theconversation.com/extreme-weather-is-outpacing-even-the-worst-case-scenarios-of-our-forecasting-models-216562) in Mexico in 2023 and Typhoon Rai in the Philippines in 2021. Both rapidly intensified shortly before landfall, and hundreds of people died because they were unable to reach safety.
