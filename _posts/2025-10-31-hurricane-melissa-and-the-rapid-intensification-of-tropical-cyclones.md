@@ -14,8 +14,8 @@ Scientists call this [‘rapid intensification’](https://theconversation.com/t
 Better forecasting will depend on more detailed monitoring of a hurricane’s inner core—especially close to the eyewall (see Figure), where the strongest winds occur—and on higher-resolution computer models that can [better capture a storm’s complex structure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109841). New machine learning (AI) techniques [may help](https://journals.ametsoc.org/view/journals/wefo/40/10/WAF-D-24-0228.1.xml) but are largely untested.
 
 ![Inside the eye of Hurricane Melissa.](/images/blog/hurricane_melissa.jpg)
-***Figure*** | *Inside the eye of Hurricane Melissa. Photo taken by U.S. Air Force ‘Hurricane Hunters’. Photograph by Lt. Col. Mark Withee/USAF/UPI/Alamy.*
-  
+> ***Figure*** | *Inside the eye of Hurricane Melissa. Photo taken by U.S. Air Force ‘Hurricane Hunters’. Photograph by Lt. Col. Mark Withee/USAF/UPI/Alamy.*
+
 As things stand, rapidly intensifying storms mean that communities are often provided little warning to evacuate, and government agencies may have little time to make preparations, such as opening evacuation shelters or preparing critical infrastructure.
 
 That’s what happened with [Hurricane Otis](https://theconversation.com/extreme-weather-is-outpacing-even-the-worst-case-scenarios-of-our-forecasting-models-216562) in Mexico in 2023 and Typhoon Rai in the Philippines in 2021. Both rapidly intensified shortly before landfall, and hundreds of people died because they were unable to reach safety.
@@ -23,8 +23,7 @@ That’s what happened with [Hurricane Otis](https://theconversation.com/extreme
 Fortunately, the chance of Melissa reaching category 5 was forecast sometime before it made landfall, helped by the storm moving very slowly towards Jamaica.
 
 
-Perfect storms
-------
+### Perfect storms
 
 A particular set of conditions are required to fuel rapid intensification: high humidity in the atmosphere, low wind shear (the change in wind speed with height), and warm sea-surface temperatures. Recent [research](https://www.nature.com/articles/s41467-022-34321-6) suggests that, since the early 1980s, warmer seas and a more moist atmosphere means these conditions are becoming more common. These trends can’t be explained by natural variability. It seems human-caused climate change is significantly increasing the probability of rapid intensification.
 
@@ -38,8 +37,7 @@ The growing tendency for storms to rapidly intensify is helping more of them to 
 
 Hurricane Melissa has brought the risks into sharp focus: storms are intensifying faster, hitting harder and giving people less time to escape. ♦
 
-Author's note
-------
+### Author's note
 
 This article was written with [Prof. Liz Stephens](https://research.reading.ac.uk/meteorology/people/liz-stephens/) (University of Reading and Red Cross Red Crescent Climate Centre) and originally published in *[The Conversation](https://theconversation.com/hurricane-melissa-is-a-warning-why-violent-storms-are-increasingly-catching-the-world-off-guard-268604)* with additional graphics and under the title ‘Hurricane Melissa is a warning—why violent storms are increasingly catching the world off guard’. At the time of writing, this article had been shared<sup>[1](https://www.linkedin.com/posts/jagan-chapagain_hurricane-melissa-why-are-storms-getting-activity-7390331099685593088-HvVd),[2](https://x.com/jagan_chapagain/status/1984563765602365670)</sup> by [Jagan Chapagain](https://www.ifrc.org/who-we-are/people-and-structures/secretary-general), Secretary General and CEO of the International Federation of Red Cross and Red Crescent Societies, and republished under the CC BY-ND 4.0 licence by:
 
