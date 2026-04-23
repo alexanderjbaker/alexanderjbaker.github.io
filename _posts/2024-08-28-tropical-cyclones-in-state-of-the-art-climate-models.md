@@ -35,5 +35,5 @@ Our understanding of how climate change may impact tropical cyclones relies a lo
 
 ### References
 
-Baker, A. J., Vannière, B., and Vidale, P. L. [On the realism of tropical cyclones simulated in global storm-resolving climate models.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109841) *Geophysical Research Letters* **51**, e2024GL109841.
+Baker, A. J., Vannière, B., and Vidale, P. L. [On the realism of tropical cyclones simulated in global storm-resolving climate models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109841). *Geophysical Research Letters* **51**, e2024GL109841.
 
