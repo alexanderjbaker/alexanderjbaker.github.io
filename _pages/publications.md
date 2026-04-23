@@ -91,7 +91,7 @@ Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink,M., Feng, X., **Ba
 
 Saffin, L., Hodges, K. I., Bourdin, S., Methven, J., Vidale, P. L., and **Baker, A. J.** Identifying tropical cyclones with the cyclone phase space: warm core, symmetric, intensifying. In preparation, .
 
-Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., and Vidale P. L. REX-BT: Reanalysis-EXtended Best Tracks for Tropical Cyclones. In preparation, .
+Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., and Vidale P. L. RABTracks: Reanalysis-Augmented Best Tracks for Tropical Cyclones. In preparation, .
 
 Chun, K. et al. Advancing tropical cyclone research through kilometre-scale global models: insights from the WCRP hackathon. In preparation, .
 
