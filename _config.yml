@@ -27,8 +27,8 @@ author:
   name             : "Alexander J. Baker, Ph.D."
   pronouns         : # example: "he/him"  
   bio              : "Senior Research Scientist, National Centre for Atmospheric Science and Department of Meteorology, University of Reading"
-  location         : "Reading, UK"
-  employer         : "University of Reading"
+  location         : # "Reading, UK"
+  employer         : # "University of Reading"
   uri              : # URL
   email            : "alexander.baker@reading.ac.uk" 
 
