@@ -13,13 +13,13 @@ redirect_from:
 Preprints under review
 ------
 
-Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5161). Under review, *Natural Hazards and Earth System Sciences*.
-
 Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. Opportunities for increasing resilience to changing severe weather in southern Africa: “Early Action and Enhanced Adaptive Capacity for All.” Under review, *Bulletin of the American Meteorological Society*.
   
   
 Published
 ------
+
+Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5161). In press, *Natural Hazards and Earth System Sciences* , (2026).
 
 **Baker, A. J.**, Lockwood, J. F., Athanasiadis, P. J., and Vidale, P. L. [Reduced future North Atlantic eddy-driven jet variability in high-resolution, fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0418.1/JCLI-D-25-0418.1.xml). In press, *Journal of Climate* ,  (2026).
 
