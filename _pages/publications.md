@@ -21,7 +21,7 @@ Published
 
 Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5161). In press, *Natural Hazards and Earth System Sciences* , (2026).
 
-**Baker, A. J.**, Lockwood, J. F., Athanasiadis, P. J., and Vidale, P. L. [Reduced future North Atlantic eddy-driven jet variability in high-resolution, fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0418.1/JCLI-D-25-0418.1.xml). In press, *Journal of Climate* ,  (2026).
+**Baker, A. J.**, Lockwood, J. F., Athanasiadis, P. J., and Vidale, P. L. [Reduced future North Atlantic eddy-driven jet variability in high-resolution, fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0418.1/JCLI-D-25-0418.1.xml). *Journal of Climate* **39**, 2925–2936 (2026).
 
 **Baker, A. J.** [Tropical cyclones and climate change](https://magazines.hachettelearning.com/magazine/geography-review/39/1/). *Geography Review* **39**, 2–5 (2025). [Invited outreach article]
 
