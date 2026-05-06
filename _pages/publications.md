@@ -14,6 +14,8 @@ Preprints under review
 ------
 
 Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. Opportunities for increasing resilience to changing severe weather in southern Africa: “Early Action and Enhanced Adaptive Capacity for All.” Under review, *Bulletin of the American Meteorological Society*.
+
+Saffin, L., Hodges, K. I., Bourdin, S., Fiorino, M., Methven, J., Vidale, P. L., and **Baker, A. J.** An improved approach to identifying tropical cyclones in model data using the cyclone phase space: warm core, symmetric, and intensifying. Under review, *Monthly Weather Review*.
   
   
 Published
@@ -88,8 +90,6 @@ Manuscripts in preparation
 **Baker, A. J.** Future tropical cyclone changes in a fully coupled global storm-resolving climate model. In preparation, *Atmospheric Science Letters*.
 
 Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink,M., Feng, X., **Baker, A. J.**, Molina, M. J., Sharma, S., Ritchie, E. A., Tam., F. l.-H., Wehner, M. What matters most? How specific features of tropical cyclones drive their impacts. In preparation, *Natural Hazards and Earth System Science* or *Nature Reviews Earth and Environment*.
-
-Saffin, L., Hodges, K. I., Bourdin, S., Methven, J., Vidale, P. L., and **Baker, A. J.** Identifying tropical cyclones with the cyclone phase space: warm core, symmetric, intensifying. In preparation, .
 
 Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., and Vidale P. L. RABTracks: Reanalysis-Augmented Best Tracks for Tropical Cyclones. In preparation, .
 
