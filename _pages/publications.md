@@ -89,9 +89,9 @@ Manuscripts in preparation
 
 **Baker, A. J.** Future tropical cyclone changes in a fully coupled global storm-resolving climate model. In preparation, *Atmospheric Science Letters*.
 
-Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink,M., Feng, X., **Baker, A. J.**, Molina, M. J., Sharma, S., Ritchie, E. A., Tam., F. l.-H., Wehner, M. What matters most? How specific features of tropical cyclones drive their impacts. In preparation, *Natural Hazards and Earth System Science* or *Nature Reviews Earth and Environment*.
-
 Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., and Vidale P. L. RABTracks: Reanalysis-Augmented Best Tracks for Tropical Cyclones. In preparation, .
+
+Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink, M., Feng, X., **Baker, A. J.**, Molina, M. J., Sharma, S., Ritchie, E. A., Tam., F. l.-H., Wehner, M. What matters most? How specific features of tropical cyclones drive their impacts. In preparation, *Natural Hazards and Earth System Science* or *Nature Reviews Earth and Environment*.
 
 Chun, K. et al. Advancing tropical cyclone research through kilometre-scale global models: insights from the WCRP hackathon. In preparation, .
 
@@ -104,4 +104,3 @@ Mckenzie, G. E., Hunt, K. M. R., Jones, T., and **Baker, A. J.** Using XGBoost a
 Vidale, P. L., Hodges, K. I., **Baker, A. J.**, Roberts, M. J., and Vannière, B. Tropical cyclone characteristics in a near-10km global climate model. In preparation, *Journal of Climate*.
 
 Vannière, B., Roberts, M. J., Hodges., K. I., Vidale, P. L., Camargo, S. J., **Baker, A. J.**, and Feng, X. Reconciling future projections of tropical cyclone frequency in GCMs. In preparation.
-
