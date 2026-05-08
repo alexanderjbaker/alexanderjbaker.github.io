@@ -6,7 +6,7 @@ redirect_from:
   - /media.md
 ---
 
-> Media engagement and blogs for other websites are listed here. For peer-reviewed papers, see [Publications](https://alexanderjbaker.github.io/bibliography/).
+> Selected media engagement and blogs for other websites are listed here. For peer-reviewed papers, see [Publications](https://alexanderjbaker.github.io/bibliography/).
 
 [Hurricane Melissa is a warning – why violent storms are increasingly catching the world off guard](https://theconversation.com/hurricane-melissa-is-a-warning-why-violent-storms-are-increasingly-catching-the-world-off-guard-268604)  
 *The Conversation*, 30th October 2025, [doi.org/10.64628/AB.xkc9tvfdw](https://doi.org/10.64628/AB.xkc9tvfdw)
