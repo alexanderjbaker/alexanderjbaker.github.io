@@ -24,7 +24,7 @@ main:
   - title: "Blog"
     url: /year-archive/
 
- - title: "Media"
+  - title: "Media"
     url: /media/
   
   #  - title: "CV"
