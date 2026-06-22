@@ -93,11 +93,11 @@ Manuscripts in preparation
 
 Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink, M., Feng, X., **Baker, A. J.**, Molina, M. J., Sharma, S., Ritchie, E. A., Tam., F. l.-H., Wehner, M. What matters most? How specific features of tropical cyclones drive their impacts. In preparation, *Natural Hazards and Earth System Science* or *Nature Reviews Earth and Environment*.
 
-Chun, K. et al. Advancing tropical cyclone research through kilometre-scale global models: insights from the WCRP hackathon. In preparation, .
+Chun, K. et al. Advancing tropical cyclone research through kilometre-scale global models: insights from the WCRP hackathon. In preparation, *Bulletin of the American Meteorological Society*.
 
 Leung, C. W., **Baker, A. J.**, Vessey, A. F., and Priestley, M. D. K. Predicting European windstorm losses from open-source hazard, exposure and vulnerability data. In preparation, *Natural Hazards and Earth System Sciences*.
 
-Mckenzie, G. E., Hunt, K. M. R., Jones, T., and **Baker, A. J.** Using XGBoost and Explainable AI to Understand the Effects of ENSO on North Atlantic Hurricane Propagation Speed and Intensification. In preparation, *Journal of Geophysical Research: Machine Learning and Computation*.
+Mckenzie, G. E., Hunt, K. M. R., Jones, T., and **Baker, A. J.** An XGBoost, SHAP and Symbolic Regression Pipeline to Predict North Atlantic Tropical Cyclone Propagation Speed and Intensification Rate. In preparation, *Journal of Geophysical Research: Machine Learning and Computation*.
 
 **Baker, A. J.**, Roberts, M. J., Vidale, P. L., Lockwood, J. F., and Sutton, R. T. Extratropical cyclone frequency projections are sensitive to global climate model resolution. In preparation, *Journal of Climate*.
 
