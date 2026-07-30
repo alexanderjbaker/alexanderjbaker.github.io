@@ -13,7 +13,7 @@ redirect_from:
 Preprints under review
 ------
 
-Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., and Vidale P. L. RABTracks: Reanalysis-Augmented Best Tracks for Tropical Cyclones. Under review, *Earth System Science Data*.
+Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., and Vidale P. L. [RABTracks: Reanalysis-Augmented Best Tracks for Tropical Cyclones. Under review](https://essd.copernicus.org/preprints/essd-2026-403/), *Earth System Science Data*.
 
 Saffin, L., Hodges, K. I., Bourdin, S., Fiorino, M., Methven, J., Vidale, P. L., and **Baker, A. J.** [An improved approach to identifying tropical cyclones in model data using the cyclone phase space: warm core, symmetric, and intensifying](https://essopenarchive.org/doi/abs/10.22541/essoar.15003790/v1). Under review, *Monthly Weather Review*.
   
