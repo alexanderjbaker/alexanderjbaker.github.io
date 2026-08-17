@@ -45,4 +45,3 @@ Research interests
 - Atmospheric circulation and jet streams  
 - Climate risk assessment  
 - Stable water isotopes and palaeoclimate  
-- Science communication  
