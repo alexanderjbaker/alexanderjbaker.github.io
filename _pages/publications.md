@@ -27,8 +27,10 @@ Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, 
 
 <div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em;">
 <div>
+  
 Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://nhess.copernicus.org/articles/26/2133/2026/). *Natural Hazards and Earth System Sciences* **26**, 2133–2150 (2026).
 </div>
+
 <div class="altmetric-embed" data-badge-type="donut" data-doi="10.5194/nhess-26-2133-2026"></div>
 </div>
 
