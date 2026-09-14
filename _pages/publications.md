@@ -50,7 +50,14 @@ Huang, H., Collins, W. D., Patricola, C. M., Ruprich-Robert, Y., Ullrich, P. A.,
 
 Athanasiadis, P., Ogawa, F., Omani, N.-E., Keenlyside, N., Schiemann, R. K. H., **Baker, A. J.**, Vidale, P. L., Bellucci, A., Ruggieri, P., Haarsma, R. J., Roberts, M. J., Roberts, C. D., Novak, L., and Gualdi, S. [Mitigating climate biases in mid-latitude North Atlantic via increasing model resolution: SST gradients and their relation to blocking and the jet](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0515.1/JCLI-D-21-0515.1.xml). *Journal of Climate* **35**, 3385–3406 (2022).
 
+<div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em;">
+<div markdown="1">
+  
 **Baker, A. J.** [Tropical cyclones: Global decline in frequency](https://www.nature.com/articles/s41558-022-01414-5). *Nature Climate Change* **12**, 615–617 (2022).
+</div>
+
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41558-022-01414-5"></div>
+</div>
 
 **Baker, A. J.**, Roberts, M. J., Vidale, P. L., Hodges, K. I., J., Seddon, J., Vannière, B., Haarsma, R. J., Schiemann, R., Kapetanakis, D., Tourigny, E., Lohmann, K., Roberts, C. D., and Terray, L. [Extratropical transition of tropical cyclones in a multiresolution ensemble of atmosphere-only and fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0801.1/JCLI-D-21-0801.1.xml). *Journal of Climate* **35**, 5283–5306 (2022).
 
