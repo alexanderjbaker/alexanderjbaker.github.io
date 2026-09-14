@@ -25,11 +25,11 @@ Published
 
 Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. Opportunities for increasing resilience to changing severe weather in southern Africa: “Early Action and Enhanced Adaptive Capacity for All.” In press, *Bulletin of the American Meteorological Society* (2026).
 
-<div class="pub-entry" markdown="1" style="overflow: auto; margin-bottom: 1.5em;">
-
+<div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em;">
+<div>
 Vessey, A. F., **Baker, A. J.**, Marcellin-Honore, V., and Michelin, J. [Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses](https://nhess.copernicus.org/articles/26/2133/2026/). *Natural Hazards and Earth System Sciences* **26**, 2133–2150 (2026).
-
-<div class="altmetric-embed" data-badge-type="donut" data-doi="10.5194/nhess-26-2133-2026" style="float:right;"></div>
+</div>
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.5194/nhess-26-2133-2026"></div>
 </div>
 
 **Baker, A. J.**, Lockwood, J. F., Athanasiadis, P. J., and Vidale, P. L. [Reduced future North Atlantic eddy-driven jet variability in high-resolution, fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0418.1/JCLI-D-25-0418.1.xml). *Journal of Climate* **39**, 2925–2936 (2026).
