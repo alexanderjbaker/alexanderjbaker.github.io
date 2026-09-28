@@ -27,6 +27,15 @@ Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., 
 <div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em;">
 <div markdown="1">
   
+Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. Probability-based storylines of unprecedented tropical cyclones impacting Southern Africa. Under review, *Nature Communications*.
+</div>
+
+<div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+</div>
+
+<div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em;">
+<div markdown="1">
+  
 Saffin, L., Hodges, K. I., Bourdin, S., Fiorino, M., Methven, J., Vidale, P. L., and **Baker, A. J.** [An improved approach to identifying tropical cyclones in model data using the cyclone phase space: warm core, symmetric, and intensifying](https://essopenarchive.org/doi/abs/10.22541/essoar.15003790/v1). Under review, *Monthly Weather Review*.
 </div>
 
@@ -267,8 +276,6 @@ Manuscripts in preparation
 ------
 
 **Baker, A. J.** Future tropical cyclone changes in a fully coupled global storm-resolving climate model. In preparation, *Atmospheric Science Letters*.
-
-Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. Unprecedented tropical cyclones impacting Southern Africa: future storylines in a risk-based framing. In preparation, **.
 
 Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink, M., Feng, X., **Baker, A. J.**, Molina, M. J., Sharma, S., Ritchie, E. A., Tam., F. l.-H., Wehner, M. What matters most? How specific features of tropical cyclones drive their impacts. In preparation, *Natural Hazards and Earth System Science* or *Nature Reviews Earth and Environment*.
 
