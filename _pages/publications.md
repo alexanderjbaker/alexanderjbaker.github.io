@@ -46,7 +46,13 @@ Saffin, L., Hodges, K. I., Bourdin, S., Fiorino, M., Methven, J., Vidale, P. L.,
 Published
 ------
 
-Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. Opportunities for increasing resilience to changing severe weather in southern Africa: “Early Action and Enhanced Adaptive Capacity for All.” In press, *Bulletin of the American Meteorological Society* (2026).
+<div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
+<div markdown="1">
+
+Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. [Opportunities for increasing resilience to changing severe weather in southern Africa: “Early Action and Enhanced Adaptive Capacity for All.”](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-25-0196.1/BAMS-D-25-0196.1.xml) In press, *Bulletin of the American Meteorological Society* (2026).
+
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.1175/BAMS-D-25-0196.1"></div>
+</div>
 
 <div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
 <div markdown="1">
