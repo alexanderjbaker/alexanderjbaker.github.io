@@ -27,7 +27,7 @@ Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., 
 <div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
 <div markdown="1">
   
-Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. Unprecedented tropical cyclones impacting Southern Africa: future storylines in a risk-based framing. In preparation, *Nature Communications*.
+Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. Probability-based storylines of unprecedented tropical cyclones impacting Southern Africa. In preparation, *Nature Communications*.
 </div>
 
 <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
