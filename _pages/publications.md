@@ -30,7 +30,7 @@ Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., 
 Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. Unprecedented tropical cyclones impacting Southern Africa: future storylines in a risk-based framing. In preparation, *Nature Communications*.
 </div>
 
-<div class="altmetric-embed" data-badge-type="donut" data-doi="10.5194/essd-2026-403"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
 </div>
 
 <div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
@@ -50,6 +50,7 @@ Published
 <div markdown="1">
 
 Kendon, E. J., Artur, L., Engelbrecht, F., Van Niekerk, D., Ayala, C., **Baker, A. J.**, Craig, A., Jaime, C., Meyer, R., Orozco-Meléndez, F., Razakamaharavo, V., Stephens, E., Vanya, C., Vincent, K., Vogeld, C., Dahadm, G., Sederam, R. A., Mahatokym, M., and Michaëlm, G. R. F. [Opportunities for increasing resilience to changing severe weather in southern Africa: “Early Action and Enhanced Adaptive Capacity for All.”](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-25-0196.1/BAMS-D-25-0196.1.xml) In press, *Bulletin of the American Meteorological Society* (2026).
+</div>
 
 <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1175/BAMS-D-25-0196.1"></div>
 </div>
