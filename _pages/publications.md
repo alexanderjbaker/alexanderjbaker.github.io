@@ -27,7 +27,7 @@ Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., 
 <div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
 <div markdown="1">
   
-Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. Probability-based storylines of unprecedented tropical cyclones impacting Southern Africa. In preparation, *Nature Communications*.
+Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. Probability-based storylines of unprecedented tropical cyclones impacting Southern Africa. Under review, *Nature Communications*.
 </div>
 
 <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
@@ -284,6 +284,8 @@ Manuscripts in preparation
 
 **Baker, A. J.** Future tropical cyclone changes in a fully coupled global storm-resolving climate model. In preparation, *Atmospheric Science Letters*.
 
+**Baker, A. J.**, Roberts, M. J., Vidale, P. L., Lockwood, J. F., and Sutton, R. T. Extratropical cyclone frequency projections are sensitive to global climate model resolution. In preparation, *Journal of Climate*.
+
 Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink, M., Feng, X., **Baker, A. J.**, Molina, M. J., Sharma, S., Ritchie, E. A., Tam., F. l.-H., Wehner, M. What matters most? How specific features of tropical cyclones drive their impacts. In preparation, *Natural Hazards and Earth System Science* or *Nature Reviews Earth and Environment*.
 
 Chun, K. et al. Advancing tropical cyclone research through kilometre-scale global models: insights from the WCRP hackathon. In preparation, *Bulletin of the American Meteorological Society*.
@@ -291,8 +293,6 @@ Chun, K. et al. Advancing tropical cyclone research through kilometre-scale glob
 Leung, C. W., **Baker, A. J.**, Vessey, A. F., and Priestley, M. D. K. Predicting European windstorm losses from open-source hazard, exposure and vulnerability data. In preparation, *Natural Hazards and Earth System Sciences*.
 
 Mckenzie, G. E., Hunt, K. M. R., Jones, T., and **Baker, A. J.** An XGBoost, SHAP and Symbolic Regression Pipeline to Predict North Atlantic Tropical Cyclone Propagation Speed and Intensification Rate. In preparation, *Journal of Geophysical Research: Machine Learning and Computation*.
-
-**Baker, A. J.**, Roberts, M. J., Vidale, P. L., Lockwood, J. F., and Sutton, R. T. Extratropical cyclone frequency projections are sensitive to global climate model resolution. In preparation, *Journal of Climate*.
 
 Vidale, P. L., Hodges, K. I., **Baker, A. J.**, Roberts, M. J., and Vannière, B. Tropical cyclone characteristics in a near-10km global climate model. In preparation, *Journal of Climate*.
 
