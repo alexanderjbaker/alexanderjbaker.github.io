@@ -30,7 +30,7 @@ Bourdin, S., Hodges, K. I., Han, Y., Saffin, L., **Baker, A. J.**, Methven, J., 
 Kendon, E. J., Macholl, J., Green, D. R., Titley, H., Jack, C., Korodimou, M., **Baker, A. J.**, James, R., Kennedy-Asser, A., Maure, G., Muofhe, P., Nhantumbo, B., Pagona, J., Rakotomavo, Z., Steinkopf, J., Vanya, C., Englebrecht, F. A. [Probability-based storylines of unprecedented tropical cyclones impacting Southern Africa](https://www.researchsquare.com/article/rs-11284807/v1). Under review, *Nature Communications*.
 </div>
 
-<div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.21203/rs.3.rs-11284807/v1"></div>
 </div>
 
 <div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
@@ -40,6 +40,14 @@ Saffin, L., Hodges, K. I., Bourdin, S., Fiorino, M., Methven, J., Vidale, P. L.,
 </div>
 
 <div class="altmetric-embed" data-badge-type="donut" data-doi="10.22541/essoar.15003790.1"></div>
+</div>
+
+<div class="pub-entry" markdown="1" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
+<div markdown="1">
+  
+Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink, M., **Baker, A. J.**, Feng, X., Molina, M. J., Reale, M., Wang, Z., Zarzycki, C., Wehner, M., Tam., F. l.-H., Macholl, J., Ritchie, E. A., Sharma, S., Li., H., Camargo, S.  Impact chains from tropical cyclones: multidisciplinary review of knowns and unknowns about the links between storm features, hazards and impacts. In preparation, *Reviews of Geophysics*.
+
+<div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
 </div>
   
   
@@ -285,8 +293,6 @@ Manuscripts in preparation
 **Baker, A. J.** Future tropical cyclone changes in a fully coupled global storm-resolving climate model. In preparation, *Atmospheric Science Letters*.
 
 **Baker, A. J.**, Roberts, M. J., Vidale, P. L., Lockwood, J. F., and Sutton, R. T. Extratropical cyclone frequency projections are sensitive to global climate model resolution. In preparation, *Journal of Climate*.
-
-Scussolini, P., Lee, C.-Y., Ramsay, H., Oderiz, I., Ribberink, M., Feng, X., **Baker, A. J.**, Molina, M. J., Sharma, S., Ritchie, E. A., Tam., F. l.-H., Wehner, M. What matters most? How specific features of tropical cyclones drive their impacts. In preparation, *Natural Hazards and Earth System Science* or *Nature Reviews Earth and Environment*.
 
 Chun, K. et al. Advancing tropical cyclone research through kilometre-scale global models: insights from the WCRP hackathon. In preparation, *Bulletin of the American Meteorological Society*.
 
