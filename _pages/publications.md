@@ -291,7 +291,9 @@ Ph.D. thesis & essays
 Manuscripts in preparation
 ------
 
-**Baker, A. J.** Future tropical cyclone changes in a fully coupled global storm-resolving climate model. In preparation, *Atmospheric Science Letters*.
+**Baker, A. J.** Future tropical cyclone changes in a fully coupled, kilometre-scale global climate model. In preparation, *Atmospheric Science Letters*.
+
+**Baker, A. J.** Inter-scale transfers of kinetic energy by tropical cyclones. In preparation, *Atmospheric Science Letters*.
 
 **Baker, A. J.**, Roberts, M. J., Vidale, P. L., Lockwood, J. F., and Sutton, R. T. Extratropical cyclone frequency projections are sensitive to global climate model resolution. In preparation, *Journal of Climate*.
 
