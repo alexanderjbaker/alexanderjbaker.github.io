@@ -13,8 +13,8 @@ That storm, named Ophelia, was exceptional. Hurricanes and tropical storms typic
 
 Ophelia weakened, becoming an ex-hurricane, before it hit Europe. But with its spiral of clouds and an eye at its centre, it still resembled a tropical storm and had the intense winds and rainfall of one too. As a tropical-like storm, Ophelia is extraordinary among the weather systems which have reached the British Isles.
 
-![Figure 1](/images/blog/2021-05-18_ophelia.jpg)  
-***Figure 1*** | *Ex-hurricane Ophelia striking the British Isles on October 16, 2017. NOAA National Environmental Satellite, Data, and Information Service (NESDIS).*
+![Figure](/images/blog/2021-05-18_ophelia.jpg)  
+***Figure*** | *Ex-hurricane Ophelia striking the British Isles on October 16, 2017. NOAA National Environmental Satellite, Data, and Information Service (NESDIS).*
 
 A year later, Storm Helene developed off the coast of West Africa and took a [highly unusual shortcut](https://theconversation.com/rogue-hurricanes-that-head-northwards-may-be-new-normal-103359) to the UK, and Storm Leslie reached the Iberian Peninsula. In 2019, several tropical storms started out in an area of the tropical Atlantic known to scientists as the [main development region](https://twitter.com/michaelrlowry/status/1021431791117271042?lang=en), and eventually reached Europe as weak remnant storms, swept along by the jet stream.
 
