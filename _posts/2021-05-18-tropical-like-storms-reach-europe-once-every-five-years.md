@@ -55,4 +55,4 @@ This article was originally published in [*The Conversation*](https://theconvers
 
 ### References
 
-Baker, A. J., Vannière, B., and Vidale, P. L. [On the realism of tropical cyclones simulated in global storm-resolving climate models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109841). *Geophysical Research Letters* **51**, e2024GL109841.
+Baker, A. J. *et al*., 2021. [Historical Variability and Lifecycles of North Atlantic Midlatitude Cyclones Originating in the Tropics](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033924). *Journal of Geophysical Research: Atmospheres* **126**, e2020JD033924.
