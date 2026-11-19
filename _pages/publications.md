@@ -1,10 +1,10 @@
 ---
-permalink: /bibliography/
+permalink: /publications/
 title: "Publications"
 author_profile: true
-redirect_from: 
-  - /publications/
+redirect_from:
   - /publications.html
+  - /publications_/
 ---
 
 <script type='text/javascript' src='https://embed.altmetric.com/assets/embed.js'></script>
@@ -303,6 +303,6 @@ Leung, C. W., **Baker, A. J.**, Vessey, A. F., and Priestley, M. D. K. Predictin
 
 Mckenzie, G. E., Hunt, K. M. R., Jones, T., and **Baker, A. J.** An XGBoost, SHAP and Symbolic Regression Pipeline to Predict North Atlantic Tropical Cyclone Propagation Speed and Intensification Rate. In preparation, *Journal of Geophysical Research: Machine Learning and Computation*.
 
-Vidale, P. L., Hodges, K. I., **Baker, A. J.**, Roberts, M. J., and Vannière, B. Tropical cyclone characteristics in a near-10km global climate model. In preparation, *Journal of Climate*.
-
 Vannière, B., Roberts, M. J., Hodges., K. I., Vidale, P. L., Camargo, S. J., **Baker, A. J.**, and Feng, X. Reconciling future projections of tropical cyclone frequency in GCMs. In preparation.
+
+Vidale, P. L., Hodges, K. I., **Baker, A. J.**, Roberts, M. J., and Vannière, B. Tropical cyclone characteristics in a near-10km global climate model. In preparation, *Journal of Climate*.
