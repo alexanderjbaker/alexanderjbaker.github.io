@@ -389,6 +389,20 @@
     width: 61.8644067796%;
   }
 
+  @media (min-width: 48em) {
+    .grid__wrapper {
+      display: flex;
+      gap: 2%;
+    }
+
+    .grid__wrapper .grid__item {
+      float: none;
+      width: auto;
+      flex: 1 1 0;
+      margin: 0;
+    }
+  }
+
   a {
     color: inherit;
     text-decoration: none;
