@@ -386,6 +386,7 @@
 
   @include breakpoint($large) {
     @include pre(2.5 of 12);
+    width: 61.8644067796%;
   }
 
   a {
